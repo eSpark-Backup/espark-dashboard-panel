@@ -1,2 +1,2 @@
-### Espark Dashboard Admin
+### Espark Dashboard Panel
 
